@@ -1,0 +1,9 @@
+[submodule "tui_counter"]
+	path = tui_counter
+	url = https://github.com/bihari123/tui_counter.git
+[submodule "json_editor"]
+	path = json_editor
+	url = https://github.com/bihari123/json_editor.git
+[submodule "demo_tui"]
+	path = demo_tui
+	url = https://github.com/bihari123/demo_tui.git
